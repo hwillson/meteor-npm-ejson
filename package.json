@@ -1,0 +1,19 @@
+{
+  "name": "@octonary/meteor-ejson",
+  "version": "0.0.1",
+  "description": "Port of Meteor's EJSON package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwillson/meteor-npm-ejson.git"
+  },
+  "author": "hwillson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hwillson/meteor-npm-ejson/issues"
+  },
+  "homepage": "https://github.com/hwillson/meteor-npm-ejson#readme"
+}
