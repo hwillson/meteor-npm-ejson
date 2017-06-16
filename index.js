@@ -1,3 +1,2 @@
-exports.placeholder = () => {
-  console.log('Placeholder');
-};
+const EJSON = require('./lib/ejson').default;
+exports.EJSON = EJSON;
