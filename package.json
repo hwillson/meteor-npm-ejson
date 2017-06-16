@@ -1,6 +1,6 @@
 {
   "name": "@octonary/meteor-ejson",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Port of Meteor's EJSON package.",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/hwillson/meteor-npm-ejson#readme",
   "dependencies": {
-    "@octonary/meteor-base64": "0.0.1",
+    "@octonary/meteor-base64": "0.0.2",
     "underscore": "^1.8.3"
   }
 }
